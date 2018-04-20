@@ -1,0 +1,6 @@
+module Pods_PientoWithHeatmap [system] {
+  umbrella header "Pods-PientoWithHeatmap-umbrella.h"
+
+  export *
+  module * { export * }
+}
